@@ -1,7 +1,7 @@
 # Análise de Atrito e Desempenho de Funcionários - HR Analytics
 
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Visualizacao_dashboard_1.png" alt="Dashboard HR Analytics" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Visualizacao_dashboard_1.png" alt="Dashboard HR Analytics" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
   
   <p>
     <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status: Concluído" />
