@@ -212,38 +212,7 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
   </div>
 </div>
 
-## Estrutura de Diretórios
 
-```
-📦 HR-Analytics-Project
- ┣ 📂 Código
- ┃ ┣ 📜 CA_AiDAPT01_P1_MongoDB.docx
- ┃ ┣ 📜 CA_AiDAPT01_P1_Script_Original_Projeto.sql
- ┃ ┣ 📜 CA_AiDAPT01_P1_Scripts_MongoDB.txt
- ┃ ┗ 📜 CA_AiDAPT01_P1_report _corr.Rmd
- ┣ 📂 Dados
- ┃ ┣ 📜 CA_AiDAPT_Dicionario_de_dados.xlsx
- ┃ ┗ 📜 CA_AiDAPT_Normalizacao_Final.xlsx
- ┣ 📂 Documentação
- ┃ ┣ 📜 CA_AiDAPT01_P1_Analise_em_R.pdf
- ┃ ┣ 📜 CA_AiDAPT01_P1_Apresentacao_Final.pdf
- ┃ ┣ 📜 CA_AiDAPT01_P1_Apresentacao_Final.pptx
- ┃ ┗ 📜 CA_AiDAPT01_P1_ibm_hr_data.csv
- ┣ 📂 Imagens
- ┃ ┣ 📜 CA_AiDAPT01_P1_Dados_Apos_Transformacoes.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Dicionario_Dados.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_OLAP_Diagrama.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_OLTP_Diagrama.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Script_SQL_Consulta_1.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Script_SQL_Consulta_2.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Script_SQL_Joins_Pepartamento.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Script_SQL_Joins_Personalinfo.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Visualizacao_Dashboard_1.png
- ┃ ┣ 📜 CA_AiDAPT01_P1_Visualizacao_Dashboard_2.png
- ┃ ┗ 📜 CA_AiDAPT01_P1_script4_SQL._joins_Rotatividadepng.png
- ┗ 📂 Visualizações
-   ┗ 📜 CA_AiDAPT01_P1_Power_BI.pbix
-```
 
 ## Conclusões Principais
 
