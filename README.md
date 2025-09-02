@@ -73,14 +73,14 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
 <details>
 <summary><b>Modelo OLTP (Transacional)</b></summary>
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_OLTP_diagrama.png" alt="Diagrama OLTP" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_OLTP_diagrama.png" alt="Diagrama OLTP" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 </details>
 
 <details>
 <summary><b>Modelo OLAP (Analítico)</b></summary>
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_OLAP_diagrama.png" alt="Diagrama OLAP" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_OLAP_diagrama.png" alt="Diagrama OLAP" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 </details>
 
