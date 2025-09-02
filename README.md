@@ -87,7 +87,7 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
 <details>
 <summary><b>Dicionário de Dados</b></summary>
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Dicionário_Dados.png" alt="Dicionário de Dados" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Dicionário_Dados.png" alt="Dicionário de Dados" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 </details>
 
