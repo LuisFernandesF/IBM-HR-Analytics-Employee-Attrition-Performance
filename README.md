@@ -165,7 +165,7 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
         <a href="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Documentos Entrega\CA_AiDAPT_Apresentacao.pptx" target="_blank" style="display: inline-block; background-color: #DC3545; color: white; padding: 8px 16px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">
           <b>Ver PDF Completo</b>
         </a>
-        <a href="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Documentos Entrega\CA_AiDAPT_Apresentacao.pptx" download style="display: inline-block; background-color: #B7472A; color: white; padding: 8px 16px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">
+        <a href="Apresentacao.pptx" download style="display: inline-block; background-color: #B7472A; color: white; padding: 8px 16px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">
           <b>Descarregar PPT</b>
         </a>
       </div>
@@ -176,7 +176,7 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
     <h3 align="center">Relatório de Análise em R</h3>
     <div align="center">
       <p>Análise estatística avançada incluindo exploração de dados, testes de hipóteses, modelação preditiva e visualizações.</p>
-      <a href="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Documentos Entrega\Analise_em_R.pdf" target="_blank" style="display: inline-block; background-color: #276DC3; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 10px 0;">
+      <a href="Analise_em_R.pdf" target="_blank" style="display: inline-block; background-color: #276DC3; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin: 10px 0;">
         <b>Ver Relatório Completo</b>
       </a>
     </div>
