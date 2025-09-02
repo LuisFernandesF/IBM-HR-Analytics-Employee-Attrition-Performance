@@ -113,12 +113,12 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
 
 <div align="center" style="margin-bottom: 30px;">
   <h4>Consulta 1</h4>
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Script_SQL_consulta_1.png" alt="Consulta SQL 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Script_SQL_consulta_1.png" alt="Consulta SQL 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
   <h4>Consulta 2</h4>
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Script_SQL_consulta_2.png" alt="Consulta SQL 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Script_SQL_consulta_2.png" alt="Consulta SQL 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 
 ### Joins e Análises Relacionais
