@@ -126,33 +126,33 @@ O projeto utiliza um conjunto de dados de RH com informações sobre:
 <details>
 <summary><b>Análise por Departamento</b></summary>
 <div align="center">
-  <img src="Imagens/C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Script_SQL_joins_departamento.png" alt="Joins Departamento" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Script_SQL_joins_departamento.png" alt="Joins Departamento" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 </details>
 
 <details>
 <summary><b>Análise de Informações Pessoais</b></summary>
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Script_SQL_joins_personalinfo.png" alt="Joins Informações Pessoais" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Script_SQL_joins_personalinfo.png" alt="Joins Informações Pessoais" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 </details>
 
 ### Transformação de Dados
 
 <div align="center">
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Dados_apos_transformacoes.png" alt="Dados Após Transformações" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Dados_apos_transformacoes.png" alt="Dados Após Transformações" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 
 ## Visualizações e Dashboards
 
 <div align="center" style="margin-bottom: 30px;">
   <h3>Dashboard Principal</h3>
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Visualizacao_dashboard_1.png" alt="Dashboard 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Visualizacao_dashboard_1.png" alt="Dashboard 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
   <h3>Dashboard de Métricas Detalhadas</h3>
-  <img src="C:\Users\fonce\OneDrive\Ambiente de Trabalho\Imagens\IBM_HR_Analytics_Visualizacao_dashboard_2.png" alt="Dashboard 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
+  <img src="IBM_HR_Analytics_Visualizacao_dashboard_2.png" alt="Dashboard 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%;" />
 </div>
 
 ## Documentos do Projeto
